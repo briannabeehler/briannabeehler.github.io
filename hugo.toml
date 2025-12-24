@@ -5,7 +5,7 @@ theme = 'ananke'
 
 [params]
   # Typography & background
-  # body_classes = "avenir bg-near-white"
+body_classes = "garamond bg-near-white"
   # text_color = ""
 
   # Hero/header styling
