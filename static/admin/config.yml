@@ -23,6 +23,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Menu", name: "menu", widget: "hidden", default: "main"}
+      - {label: "Menu Order", name: "weight", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "posts"
     label: "Posts"
