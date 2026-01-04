@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Brianna Beehler'
 theme = 'ananke'
 
+[permalinks]
+  pages = "/:slug/"
+
 [params]
   # Typography & background
 body_classes = "garamond bg-near-white"
