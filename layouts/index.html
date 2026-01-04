@@ -1,0 +1,17 @@
+{{ define "head" }}
+<style>main { padding-bottom: 0 !important; }</style>
+{{ end }}
+
+{{ define "header" }}
+<header>
+  <div class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }}">
+    {{ partials.Include "site-navigation.html" . }}
+  </div>
+</header>
+{{ end }}
+
+{{ define "main" }}
+{{ with .Params.image }}
+<div class="w-100 vh-100 cover bg-center" style="background-image: url('{{ . }}');"></div>
+{{ end }}
+{{ end }}
