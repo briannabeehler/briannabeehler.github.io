@@ -1,4 +1,5 @@
 ---
 title: Home
-image: /images/Website%20homepage.png
+image: /images/Website homepage-1.png
 ---
+
