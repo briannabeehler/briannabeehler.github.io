@@ -24,5 +24,5 @@ weight: 2
 **Reviews**
 
 * "_Gone Girls, 1684-1901: Flights of Feminist Resistance in the Eighteenth- and Nineteenth-Century British Novel_ by Nora Gilbert," [_EuropeNow_](https://www.europenowjournal.org/2024/08/15/gone-girls-1684-1901-flights-of-feminist-resistance-in-the-eighteenth-and-nineteenth-century-british-novel-by-nora-gilbert/)
-* _"_Timothy Gao, _Virtual Play and the Victorian Novel: The Ethics and Aesthetics of Fictional Experience_," [_Victoriographies_](https://www.euppublishing.com/doi/full/10.3366/vic.2022.0462)
+* "Timothy Gao, _Virtual Play and the Victorian Novel: The Ethics and Aesthetics of Fictional Experience_," [_Victoriographies_](https://www.euppublishing.com/doi/full/10.3366/vic.2022.0462)
 * _"The submerged plot and the mother’s pleasure from Jane Austen to Arundhati Roy_ by Kelly A. Marsh," [_Journal of Gender Studies_](The submerged plot and the mother’s pleasure from Jane Austen to Arundhati Roy)
