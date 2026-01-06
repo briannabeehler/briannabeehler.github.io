@@ -5,7 +5,7 @@ weight: 3
 ---
 ## Journal Articles
 
-- "The Secrecies of Dollplay with Alice and Henry James," _The Henry James Review _(forthcoming; winner of the Leon Edel Prize)
+- "The Secrecies of Dollplay with Alice and Henry James," _The Henry James Review_ (forthcoming; winner of the Leon Edel Prize)
 - “Charlotte Brontë’s Paper Dolls.” [_English Literary History_](https://muse.jhu.edu/article/848857/summary), vol. 89, no. 1, 2022, pp. 115-135.
 - “The Doll’s Gift: Ventriloquizing _Bleak House_.” [_Nineteenth-Century Literature_](https://online.ucpress.edu/ncl/article-abstract/75/1/24/110583/The-Doll-s-GiftVentriloquizing-Bleak-House?redirectedFrom=fulltext), vol. 75, no. 1, 2020, pp. 24–49.
 
