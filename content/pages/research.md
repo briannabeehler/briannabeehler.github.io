@@ -3,6 +3,8 @@ title: Research
 menu: main
 weight: 3
 ---
+[![Infantry in Arms](/images/infantry%20in%20arms%20.jpg "Infantry in Arms")](https://www.pafa.org/museum/collection/item/infantry-arms)
+
 ## Journal Articles
 
 - "The Secrecies of Dollplay with Alice and Henry James," _The Henry James Review_ (forthcoming; winner of the Leon Edel Prize)
