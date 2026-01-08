@@ -3,6 +3,8 @@ title: Writing
 menu: main
 weight: 2
 ---
+[![Mountain Brook](/images/mountain%20brook.jpg "Mountain Brook")](https://www.artic.edu/artworks/146701/mountain-brook)
+
 ## Reviews
 
 * "_Your Little Matter_ by Maria Grazia Calandrone, translated by Antonella Lettieri,"[ _EuropeNow_](https://www.europenowjournal.org/2024/08/15/august-2024/)
