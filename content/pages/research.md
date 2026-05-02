@@ -3,11 +3,12 @@ title: Research
 menu: main
 weight: 3
 ---
+
 [![Infantry in Arms](/images/infantry%20in%20arms%20.jpg "Infantry in Arms")](https://www.pafa.org/museum/collection/item/infantry-arms)
 
 ## Journal Articles
 
-- "The Secrecies of Dollplay with Alice and Henry James," _The Henry James Review_ (forthcoming; winner of the Leon Edel Prize)
+- "The Secrecies of Dollplay with Alice and Henry James," [_The Henry James Review_](https://muse.jhu.edu/pub/1/article/988646)_,_ vol. 47, no. 2, 2026, pp. 129-145. (Winner of the Leon Edel Prize)
 - “Charlotte Brontë’s Paper Dolls.” [_ELH_](https://muse.jhu.edu/article/848857/summary), vol. 89, no. 1, 2022, pp. 115-135.
 - “The Doll’s Gift: Ventriloquizing _Bleak House_.” [_Nineteenth-Century Literature_](https://online.ucpress.edu/ncl/article-abstract/75/1/24/110583/The-Doll-s-GiftVentriloquizing-Bleak-House?redirectedFrom=fulltext), vol. 75, no. 1, 2020, pp. 24–49.
 
