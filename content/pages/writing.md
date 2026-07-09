@@ -16,4 +16,5 @@ weight: 2
 
 ## Essays
 
+* "Building Pilina," [_The Nueva School Reflections_](https://www.nuevaschool.org/about/news-events/news/reflections/postviewer/~board/reflections/post/building-pilina)
 * "'Kingdom of Dolls': Sonneberg, Germany," [_Public Books_](https://www.publicbooks.org/kingdom-of-dolls-sonneberg-germany/)
