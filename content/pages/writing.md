@@ -4,8 +4,6 @@ menu: main
 weight: 2
 ---
 
-##### Reviews and Essays
-
 Review of Marlen Haushofer's [_The Fifth Year_ ](https://www.thecommononline.org/review-the-fifth-year-by-marlen-haushofer/)for **_The Common_**  
 
 Review of Maria Grazia Calandrone's _[Your Little Matter](https://www.europenowjournal.org/2024/08/15/august-2024/)_ for **_EuropeNow_**
