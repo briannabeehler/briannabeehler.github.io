@@ -8,7 +8,7 @@ weight: 3
 
 ## Journal Articles
 
-"The Secrecies of Dollplay with Alice and Henry James," [_The Henry James Review_](https://muse.jhu.edu/pub/1/article/988646)*,* vol. 47, no. 2, 2026, pp. 129-145. (Winner of the Leon Edel Prize)
+["The Secrecies of Dollplay with Alice and Henry James,"](https://muse.jhu.edu/pub/1/article/988646) **_The Henry James Review_**_,_ vol. 47, no. 2, 2026, pp. 129-145. (Winner of the Leon Edel Prize)
 
 “Charlotte Brontë’s Paper Dolls.” _[ELH](https://muse.jhu.edu/article/848857/summary)_, vol. 89, no. 1, 2022, pp. 115-135.
 
