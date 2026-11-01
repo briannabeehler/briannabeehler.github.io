@@ -16,7 +16,7 @@ weight: 3
 
 ## Edited Journal Issues
 
-“Introduction: The Green Conference.” (with Grace Franklin and Devin Griffiths for a co-edited special issue on the 35th annual meeting of Interdisciplinary Nineteenth-Century Studies) _[Nineteenth-Century Contexts](https://www.tandfonline.com/doi/full/10.1080/08905495.2020.1816086)_, vol. 42, no. 5, 2020, pp. 487-492.
+“Introduction: The Green Conference.” (with Grace Franklin and Devin Griffiths for a co-edited special issue on the 35th annual meeting of Interdisciplinary Nineteenth-Century Studies) _[Nineteenth-Century Contexts](https://www.tandfonline.com/doi/full/10.1080/08905495.2020.1816086)_, vol. 42, no. 5, 2020, pp. 487-492. 
 
 ## Reviews
 
