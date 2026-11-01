@@ -14,4 +14,4 @@ Review of Elena Ferrante's [_The Lying Life of Adults_ ](https://www.thegeorgiar
 
 "Kingdom of Dolls" –– Essay on [Sonneberg, Germany](https://www.publicbooks.org/kingdom-of-dolls-sonneberg-germany/) for **Public Books**
 
-Review of [Wild World of American Girls](https://podcastreview.org/review/american-girls/) for **_Podcast Review_**
+Review of _[Wild World of American Girls](https://podcastreview.org/review/american-girls/)_ for **_Podcast Review_**
