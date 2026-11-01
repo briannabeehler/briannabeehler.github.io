@@ -12,16 +12,16 @@ weight: 3
 
 [“Charlotte Brontë’s Paper Dolls.”](https://muse.jhu.edu/article/848857/summary) **_ELH_**, vol. 89, no. 1, 2022, pp. 115-135.
 
-“The Doll’s Gift: Ventriloquizing _Bleak House_.” _[Nineteenth-Century Literature](https://online.ucpress.edu/ncl/article-abstract/75/1/24/110583/The-Doll-s-GiftVentriloquizing-Bleak-House?redirectedFrom=fulltext)_, vol. 75, no. 1, 2020, pp. 24–49.
+[“The Doll’s Gift: Ventriloquizing _Bleak House_.”](https://online.ucpress.edu/ncl/article-abstract/75/1/24/110583/The-Doll-s-GiftVentriloquizing-Bleak-House?redirectedFrom=fulltext) **_Nineteenth-Century Literature_**, vol. 75, no. 1, 2020, pp. 24–49.
 
 ## Edited Journal Issues
 
-“Introduction: The Green Conference.” (with Grace Franklin and Devin Griffiths for a co-edited special issue on the 35th annual meeting of Interdisciplinary Nineteenth-Century Studies) _[Nineteenth-Century Contexts](https://www.tandfonline.com/doi/full/10.1080/08905495.2020.1816086)_, vol. 42, no. 5, 2020, pp. 487-492. 
+[“Introduction: The Green Conference.”](https://www.tandfonline.com/doi/full/10.1080/08905495.2020.1816086) (with Grace Franklin and Devin Griffiths for a co-edited special issue on the 35th annual meeting of Interdisciplinary Nineteenth-Century Studies) **_Nineteenth-Century Contexts_**, vol. 42, no. 5, 2020, pp. 487-492. 
 
 ## Reviews
 
-“_Gone Girls, 1684-1901: Flights of Feminist Resistance in the Eighteenth- and Nineteenth-Century British Novel_ by Nora Gilbert,” _[EuropeNow](https://www.europenowjournal.org/2024/08/15/gone-girls-1684-1901-flights-of-feminist-resistance-in-the-eighteenth-and-nineteenth-century-british-novel-by-nora-gilbert/)_ 
+[“_Gone Girls, 1684-1901: Flights of Feminist Resistance in the Eighteenth- and Nineteenth-Century British Novel_ by Nora Gilbert,”](https://www.europenowjournal.org/2024/08/15/gone-girls-1684-1901-flights-of-feminist-resistance-in-the-eighteenth-and-nineteenth-century-british-novel-by-nora-gilbert/) **_EuropeNow_** 
 
-"Timothy Gao, _Virtual Play and the Victorian Novel: The Ethics and Aesthetics of Fictional Experience_," _[Victoriographies](https://www.euppublishing.com/doi/full/10.3366/vic.2022.0462)_
+["Timothy Gao, _Virtual Play and the Victorian Novel: The Ethics and Aesthetics of Fictional Experience_,"](https://www.euppublishing.com/doi/full/10.3366/vic.2022.0462) **_Victoriographies_**
 
-_“The submerged plot and the mother’s pleasure from Jane Austen to Arundhati Roy_ by Kelly A. Marsh,” _[Journal of Gender Studies](https://www.tandfonline.com/doi/full/10.1080/09589236.2017.1353778)_
+[_“The submerged plot and the mother’s pleasure from Jane Austen to Arundhati Roy_ by Kelly A. Marsh,” ](https://www.tandfonline.com/doi/full/10.1080/09589236.2017.1353778)**_Journal of Gender Studies_**
