@@ -12,6 +12,6 @@ Review of Greta Gerwig's _[Barbie](https://www.thegeorgiareview.com/posts/on-bar
 
 Review of Elena Ferrante's [_The Lying Life of Adults_ ](https://www.thegeorgiareview.com/posts/on-the-lying-life-of-adults-by-elena-ferrante-translated-by-ann-goldstein/) for **_The Georgia Review_**
 
-"Kingdom of Dolls" –– Essay on [Sonneberg, Germany](https://www.publicbooks.org/kingdom-of-dolls-sonneberg-germany/) for **Public Books**
+"Kingdom of Dolls" –– Essay on [Sonneberg, Germany](https://www.publicbooks.org/kingdom-of-dolls-sonneberg-germany/) for **_Public Books_**
 
 Review of _[Wild World of American Girls](https://podcastreview.org/review/american-girls/)_ for **_Podcast Review_**
