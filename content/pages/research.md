@@ -8,20 +8,20 @@ weight: 3
 
 ## Journal Articles
 
-["The Secrecies of Dollplay with Alice and Henry James."](https://muse.jhu.edu/pub/1/article/988646) **_The Henry James Review_**_,_ vol. 47, no. 2, 2026, pp. 129-145. (Winner of the Leon Edel Prize)
+"[The Secrecies of Dollplay with Alice and Henry James](https://muse.jhu.edu/pub/1/article/988646)." **_The Henry James Review_**_,_ vol. 47, no. 2, 2026, pp. 129-145. (Winner of the Leon Edel Prize)
 
-[“Charlotte Brontë’s Paper Dolls.”](https://muse.jhu.edu/article/848857/summary) **_ELH_**, vol. 89, no. 1, 2022, pp. 115-135.
+“[Charlotte Brontë’s Paper Dolls](https://muse.jhu.edu/article/848857/summary).” **_ELH_**, vol. 89, no. 1, 2022, pp. 115-135.
 
-[“The Doll’s Gift: Ventriloquizing _Bleak House_.”](https://online.ucpress.edu/ncl/article-abstract/75/1/24/110583/The-Doll-s-GiftVentriloquizing-Bleak-House?redirectedFrom=fulltext) **_Nineteenth-Century Literature_**, vol. 75, no. 1, 2020, pp. 24–49.
+“[The Doll’s Gift: Ventriloquizing _Bleak House_](https://online.ucpress.edu/ncl/article-abstract/75/1/24/110583/The-Doll-s-GiftVentriloquizing-Bleak-House?redirectedFrom=fulltext).” **_Nineteenth-Century Literature_**, vol. 75, no. 1, 2020, pp. 24–49.
 
 ## Edited Journal Issues
 
-[“Introduction: The Green Conference.”](https://www.tandfonline.com/doi/full/10.1080/08905495.2020.1816086) (with Grace Franklin and Devin Griffiths for a co-edited special issue on the 35th annual meeting of Interdisciplinary Nineteenth-Century Studies) **_Nineteenth-Century Contexts_**, vol. 42, no. 5, 2020, pp. 487-492. 
+“[Introduction: The Green Conferenc](https://www.tandfonline.com/doi/full/10.1080/08905495.2020.1816086)[e](https://www.tandfonline.com/doi/full/10.1080/08905495.2020.1816086).” (with Grace Franklin and Devin Griffiths for a co-edited special issue on the 35th annual meeting of Interdisciplinary Nineteenth-Century Studies) **_Nineteenth-Century Contexts_**, vol. 42, no. 5, 2020, pp. 487-492. 
 
 ## Reviews
 
-[“_Gone Girls, 1684-1901: Flights of Feminist Resistance in the Eighteenth- and Nineteenth-Century British Novel_ by Nora Gilbert,”](https://www.europenowjournal.org/2024/08/15/gone-girls-1684-1901-flights-of-feminist-resistance-in-the-eighteenth-and-nineteenth-century-british-novel-by-nora-gilbert/) **_EuropeNow_** 
+Review of Nora Gilbert's [_Gone Girls, 1684-1901_](https://www.europenowjournal.org/2024/08/15/gone-girls-1684-1901-flights-of-feminist-resistance-in-the-eighteenth-and-nineteenth-century-british-novel-by-nora-gilbert/)*: Flights of Feminist Resistance in the Eighteenth- and Nineteenth-Century British Novel*, **_EuropeNow_** 
 
-["Timothy Gao, _Virtual Play and the Victorian Novel: The Ethics and Aesthetics of Fictional Experience_,"](https://www.euppublishing.com/doi/full/10.3366/vic.2022.0462) **_Victoriographies_**
+Review of Timothy Gao's [_Virtual Play and the Victorian Novel_](https://www.euppublishing.com/doi/full/10.3366/vic.2022.0462)*: The Ethics and Aesthetics of Fictional Experience*, **_Victoriographies_**
 
-[_“The submerged plot and the mother’s pleasure from Jane Austen to Arundhati Roy_ by Kelly A. Marsh,” ](https://www.tandfonline.com/doi/full/10.1080/09589236.2017.1353778)**_Journal of Gender Studies_**
+Review of Kelly A. Marsh's _[The Submerged Plot and the Mother’s Pleasure from Jane Austen to Arundhati Roy](https://www.tandfonline.com/doi/full/10.1080/09589236.2017.1353778)_, **_Journal of Gender Studies_**
