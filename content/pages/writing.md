@@ -4,14 +4,11 @@ menu: main
 weight: 2
 ---
 
-## Reviews 
+##### Reviews and Essays
 
-- "Review of _The Fifth Year_ by Marlen Haushofer, translated by Shaun Whiteside" [_The Common_ ](https://www.thecommononline.org/review-the-fifth-year-by-marlen-haushofer/) 
-- "_Your Little Matter_ by Maria Grazia Calandrone, translated by Antonella Lettieri,"[ _EuropeNow_](https://www.europenowjournal.org/2024/08/15/august-2024/)
-- "on _Barbie_, directed by Greta Gerwig," [_The Georgia Review_](https://www.thegeorgiareview.com/posts/on-barbie-directed-by-greta-gerwig/)
-- "on _The Lying Life of Adults_ by Elena Ferrante, translated by Ann Goldstein," [_The Georgia Review_](https://www.thegeorgiareview.com/posts/on-the-lying-life-of-adults-by-elena-ferrante-translated-by-ann-goldstein/)
-- "The Wild World of American Girls," [_Podcast Review_](https://podcastreview.org/review/american-girls/)
-
-## Essays
-
-* "'Kingdom of Dolls': Sonneberg, Germany," [_Public Books_](https://www.publicbooks.org/kingdom-of-dolls-sonneberg-germany/)
+- Review of Marlen Haushofer's [_The Fifth Year_ ](https://www.thecommononline.org/review-the-fifth-year-by-marlen-haushofer/)for **_The Common_**  
+- Review of Maria Grazia Calandrone's _[Your Little Matter](https://www.europenowjournal.org/2024/08/15/august-2024/)_ for **_EuropeNow_**
+- Review of Greta Gerwig's _[Barbie](https://www.thegeorgiareview.com/posts/on-barbie-directed-by-greta-gerwig/)_ for **_The Georgia Review_**
+- Review of Elena Ferrante's [_The Lying Life of Adults_ ](https://www.thegeorgiareview.com/posts/on-the-lying-life-of-adults-by-elena-ferrante-translated-by-ann-goldstein/) for **_The Georgia Review_**
+- "Kingdom of Dolls" –– Essay on [Sonneberg, Germany](https://www.publicbooks.org/kingdom-of-dolls-sonneberg-germany/) for **Public Books**
+- Review of [Wild World of American Girls](https://podcastreview.org/review/american-girls/) for **_Podcast Review_**
